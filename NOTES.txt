@@ -1,0 +1,14 @@
+1->Morgan tell about all frontend calls and print information 
+in console.
+2-> while updating password length must be greater or equal to 6
+3 -> role 0 -> user
+     role 1 -> admin
+4 -> admin can access all the function of users
+5-> req.params is not working so everything fetched by req.body
+6-> product filter may have error
+7-> search filter has been taught wrongly -> need modification
+
+8->toast is not working
+9.search is not working
+
+
